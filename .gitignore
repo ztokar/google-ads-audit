@@ -9,3 +9,5 @@ config.local.json
 audits/
 reports/
 *.log
+
+preview.local.html
