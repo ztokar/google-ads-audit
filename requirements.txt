@@ -1,0 +1,5 @@
+google-ads-mcp @ git+https://github.com/googleads/google-ads-mcp.git@9a78cbdceebae71a6bc8483bdec333695834ef9c
+mcp==2.3.0
+fastmcp==4.1.0
+google-auth-oauthlib>=1.2,<2
+tzdata>=2026.1

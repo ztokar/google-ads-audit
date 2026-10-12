@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+credentials*.json
+client_secret*.json
+config.local.json
+audits/
+reports/
+*.log
