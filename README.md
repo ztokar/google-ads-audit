@@ -43,4 +43,4 @@ Google's Ads OAuth permission is broader than reading. The pinned server only ex
 
 ## Validation
 
-The original workflow was used for live account audits. This portable package has syntax, query-generation and credential-isolation checks. It must be verified with each new user's own login and a live account read before the setup is called complete. Cross-platform path support does not mean a fresh Mac or Linux installation has been tested.
+The original workflow was used for live account audits. This portable package passed query-generation and credential-isolation tests, a local Windows dependency installation/check, and a server handshake exposing exactly the three expected read-only tools. It must be verified with each new user's own login and a live account read before the setup is called complete. Cross-platform path support does not mean a fresh Mac or Linux installation has been tested.
